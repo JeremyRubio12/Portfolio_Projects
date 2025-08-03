@@ -35,4 +35,3 @@ This project explores a dataset of movies to uncover correlations between featur
 
 - Budget and Gross show a strong positive correlation.
 
-este este readme pero tambien acabo de agregar el projecto de sql, que hago?
