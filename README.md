@@ -1,42 +1,16 @@
-# 🎬 Movie Correlation Analysis with Python
+# 📚 Data Projects Portfolio
 
-This project explores a dataset of movies to uncover correlations between features such as budget, gross, rating, votes, and more. It uses data visualization and statistical analysis to answer key questions about what factors contribute to a movie’s success.
+Este repositorio contiene dos proyectos individuales de análisis y limpieza de datos utilizando Python y SQL.
 
----
+## 📁 Proyectos incluidos
 
-## 📊 Dataset
+### 🎬 1. [Movie Correlation Analysis (Python)](./MovieCorrelationProject/README.md)
+Analiza qué factores (presupuesto, votos, rating, etc.) tienen más impacto en el éxito de una película. Incluye limpieza, visualización y análisis de correlación.
 
-- Source: [Kaggle](https://www.kaggle.com/)
-- Size: 7668  rows × 16 columns
-- Includes fields like: Name, Genre, Budget, Gross, Votes, Runtime, etc.
-
----
-
-## 🎯 Project Objectives
-
-- Clean and preprocess movie data
-- Handle missing values and categorical features
-- Analyze feature correlations (Pearson, heatmap)
-- Visualize relationships using `seaborn`
-- Identify the most influential factors on a movie's performance
+### 🏠 2. [SQL Data Cleaning: Nashville Housing](./SQLDataCleaningProject/README.md)
+Limpieza completa de un dataset inmobiliario usando SQL: fechas, duplicados, separación de campos y más.
 
 ---
 
-## 🛠️ Tools & Libraries
-
-- Python
-- Pandas
-- NumPy
-- Seaborn
-
----
-
-## 📌 Key Findings
-
-- Budget and Gross show a strong positive correlation.
-- Runtime correlates with number of votes.
-
-<img width="865" height="651" alt="image" src="https://github.com/user-attachments/assets/90bfa59c-9bb4-43c0-b65f-0c97f919771d" />
-
-
----
+👤 Autor: Jeremy Rubio
+📅 Fecha: Agosto 2025
